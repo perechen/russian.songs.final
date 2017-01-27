@@ -8,6 +8,8 @@ Field delimeter is ; (semicolon).
 **corpus_split.zip**  
 Archive which contains original texts of corpus in separate .txt files. Each entry in the table has and **"id"** number that serves as a reference to a particular file.  
   
+![alt text](/RP_1800_1840_bin.png?raw=true)
+  
 ## RUS  
   
 **general_table_upd.csv**  
