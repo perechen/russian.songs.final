@@ -2,7 +2,7 @@
 ## ENG
 
 **general_table_upd.csv**  
-A general table with different meta data on manually collected "Russian songs" (1800-1840ss), including bibliographic description, meter formula etc. It is a work-in-progress, so it's references are not unified, some of them (for widely accessible sources) are absent and so on.    
+A general table with different meta data on manually collected "Russian songs" (1800-1840ss), including bibliographic description, meter formula etc. It is a work-in-progress, so some references are not unified, data not double-checked and so on.
 Field delimeter is ; (semicolon).
   
 **corpus_split.zip**  
